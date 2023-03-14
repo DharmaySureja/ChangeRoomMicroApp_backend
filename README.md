@@ -10,7 +10,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Change Room Micro App Front end</h3>
+  <h3 align="center">Change Room Micro App Back-end</h3>
 
   <p align="center">
    Developed as part of Tulip Hackday 2023!
